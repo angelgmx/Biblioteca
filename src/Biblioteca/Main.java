@@ -2,7 +2,7 @@ package Biblioteca;
 
 /**
  * Clase principal para probar el sistema de biblioteca.
- * @author TuNombre
+ * @author Angel
  * @version 1.0
  */
 public class Main {

@@ -3,7 +3,7 @@ package Biblioteca;
 
 /**
  * Representa un libro en la biblioteca.
- * @author TuNombre
+ * @author Angel
  * @version 1.0
  * @since 1.0
  */

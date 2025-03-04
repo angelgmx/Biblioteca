@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * Representa un usuario de la biblioteca.
- * @author TuNombre
+ * @author Angel
  * @version 1.0
  * @since 1.0
  */
